@@ -58,3 +58,4 @@ Threading – Asynchronous processing
 
 Socket – TCP communication
 
+The file plot_inno2.py uses randomly generated data while the file plot_tcp takes data in real-time through an integrated TCP port. 
